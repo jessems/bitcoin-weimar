@@ -1,4 +1,4 @@
-# Bitcoin-Weimar: A comparison of the USD/BTC ratio to the historic Gold/German Mark ratio in the Weimar Republic
+# Bitcoin-Weimar: A comparison of the USD/BTC ratio to the historic German Mark/Gold Mark ratio in the Weimar Republic
 
 This repository pulls together data on the exchange rate between USD and Bitcoin (from Yahoo finance) and historical data on the exchange rate between the Germany Mark and the Gold.
 
